@@ -5,7 +5,7 @@ Este es mi sitio personal. Si estás aquí, es porque estás interesado/a en mis
 ### Diseño Web
 Soy un especialista del diseño web responsivo. Más del 60% del tráfico web a nivel mundial proviene de dispositivos móviles, así que tener una página web adaptativa se ha vuelto una necesidad. Te muestro unos ejemplos:
 
-[documentation](http://www.cchc.cl/)
+[Cámara Chilena de la Construcción](http://www.cchc.cl/)
 
 [documentation](https://help.github.com/categories/github-pages-basics/)
 
@@ -14,7 +14,9 @@ Los smartphones llegaron para quedarse. Estos aparatos nacieron para hacer nuest
 
 [Mi USS](https://play.google.com/store/apps/details?id=cl.uss.miussmobileapp)
 
-[documentation](https://help.github.com/categories/github-pages-basics/)
+[Medicamentos Chile](https://play.google.com/store/apps/details?id=net.armincl.medicamentos
+
+
 
 
 
