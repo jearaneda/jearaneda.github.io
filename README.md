@@ -2,9 +2,13 @@
 
 Esta es mi página personal. Si estás aquí, es porque estás interesado/a en mis proyectos y quieres saber qué puedo hacer.
 
-### Markdown
+### Desarrollo web
+Soy un especialista del diseño web responsivo. Más del 60% del tráfico web a nivel mundial proviene de dispositivos móviles, así que tener una página web adaptativa se ha vuelto una necesidad. Permíteme mostrarte unos ejemplos:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[documentation](https://help.github.com/categories/github-pages-basics/)
+[documentation](https://help.github.com/categories/github-pages-basics/)
+
+
 
 ```markdown
 Syntax highlighted code block
