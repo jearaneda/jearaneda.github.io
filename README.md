@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Hola!
 
-You can use the [editor on GitHub](https://github.com/jearaneda/jearaneda.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Esta es mi página personal. Si estás aquí, es porque estás interesado/a en mis proyectos y quieres saber qué puedo hacer.
 
 ### Markdown
 
