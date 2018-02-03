@@ -1,11 +1,19 @@
 ## Hola!
 
-Esta es mi página personal. Si estás aquí, es porque estás interesado/a en mis proyectos y quieres saber qué puedo hacer.
+Este es mi sitio personal. Si estás aquí, es porque estás interesado/a en mis proyectos y quieres saber qué puedo hacer.
 
-### Desarrollo web
-Soy un especialista del diseño web responsivo. Más del 60% del tráfico web a nivel mundial proviene de dispositivos móviles, así que tener una página web adaptativa se ha vuelto una necesidad. Permíteme mostrarte unos ejemplos:
+### Diseño Web
+Soy un especialista del diseño web responsivo. Más del 60% del tráfico web a nivel mundial proviene de dispositivos móviles, así que tener una página web adaptativa se ha vuelto una necesidad. Te muestro unos ejemplos:
+
+[documentation](http://www.cchc.cl/)
 
 [documentation](https://help.github.com/categories/github-pages-basics/)
+
+### Desarrollo Mobile
+Los smartphones llegaron para quedarse. Estos aparatos nacieron para hacer nuestra vida más sencilla, pero detrás del telón hay miles de personas que hacen esto posible. Busco ser parte de ello. Puedo ayudarte con tu emprendimiento o idea.
+
+[Mi USS](https://play.google.com/store/apps/details?id=cl.uss.miussmobileapp)
+
 [documentation](https://help.github.com/categories/github-pages-basics/)
 
 
