@@ -1,6 +1,5 @@
-## Hola!
-
-Este es mi sitio personal. Si estás aquí, es porque estás interesado/a en mis proyectos y quieres saber qué puedo hacer.
+## Sobre mí
+Estudio Ingeniería Civil en Computación, Track Ing. de Software en la Pontificia Universidad Católica. Soy un aficionado a la Informática, por lo que constantemente me renuevo y aprendo cosas nuevas. Puedo ayudarle a tu emprendimiento o empresa aportando con mi conocimiento en los temas que ves aquí abajo.
 
 ### Diseño Web
 Soy un especialista del diseño web responsivo. Más del 60% del tráfico web a nivel mundial proviene de dispositivos móviles, así que tener una página web adaptativa a cada tipo de teléfono es ahora una necesidad. Te muestro unos ejemplos:
