@@ -1,5 +1,5 @@
 ## Sobre mí
-Estudio Ingeniería Civil en Computación, Track Ing. de Software en la Pontificia Universidad Católica. Soy un aficionado a la informática, por lo que constantemente me renuevo aprendiendo cosas nuevas. ¿Qué puedo hacer? Descúbrelo aquí abajo.
+Estudio Ingeniería Civil en Computación, Track Ing. de Software en la Pontificia Universidad Católica. Soy un aficionado a la informática, por lo que constantemente me renuevo aprendiendo nuevos lenguajes y métodos. ¿En qué puedo ayudarte? Descúbrelo aquí abajo.
 
 ### Diseño Web
 Soy un especialista del diseño web responsivo. Más del 60% del tráfico web a nivel mundial proviene de dispositivos móviles, así que tener una página web adaptativa a cada tipo de teléfono es ahora una necesidad. Te muestro unos ejemplos:
