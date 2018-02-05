@@ -20,12 +20,12 @@ Los smartphones llegaron para quedarse. Estos aparatos nacieron para hacer nuest
 ### Docencia
 Constantemente intento que otras personas puedan entender el mundo y sus componentes de otras formas. Por eso, la enseñanza es uno de mis hobbies.
 
-Ayudante de Cálculo I (MAT1610), PUC Campus San Joaquín.
+*   Ayudante de Cálculo I (MAT1610), PUC Campus San Joaquín.
 
-Ayudante de Filosofía y Vida en el Mundo Contemporáneo (FIL172), PUC Campus San Joaquín.
+*   Ayudante de Filosofía y Vida en el Mundo Contemporáneo (FIL172), PUC Campus San Joaquín.
 
-Tutor voluntario, PreuIng de Ingeniería UC.
+*   Tutor voluntario, PreuIng de Ingeniería UC.
 
-Profesor de Matemáticas y Ciencias, Preuniversitario Gauss.
+*   Profesor de Matemáticas y Ciencias, Preuniversitario Gauss.
 
-Clases particulares y grupales: Claseduc, Aprender Activo, Sacateun7, ClasesPSU.
+*   Clases particulares y grupales: Claseduc, Aprender Activo, Sacateun7, ClasesPSU.
