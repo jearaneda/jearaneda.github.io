@@ -2,11 +2,15 @@
 Estudio Ingeniería Civil en Computación, Track Ing. de Software en la Pontificia Universidad Católica. Soy un aficionado a la informática, y es por ello que constantemente me renuevo aprendiendo nuevos lenguajes y métodos. ¿En qué puedo ayudarte? Descúbrelo aquí abajo.
 
 ### Diseño Web
-Soy un especialista del diseño web responsivo. Más del 60% del tráfico web a nivel mundial proviene de dispositivos móviles, así que tener una página web adaptativa a cada tipo de teléfono es ahora una necesidad. Te muestro unos ejemplos:
+Más del 60% del tráfico web a nivel mundial proviene de dispositivos móviles, así que tener una página web adaptativa a cada tipo de teléfono es ahora una necesidad. Algunas webs responsivas que he desarrollado:
+
+
 
 [Cámara Chilena de la Construcción](http://www.cchc.cl/)
 
 [Sacateun7](https://www.sacateun7.com/)
+
+[Zella](https://www.zella.cl/)
 
 ### Desarrollo Mobile
 Los smartphones llegaron para quedarse. Estos aparatos nacieron para hacer nuestra vida más sencilla, pero detrás del telón hay miles de personas que hacen esto posible, y por ello puedo ayudarte a concretar tu emprendimiento o idea.
@@ -18,6 +22,10 @@ Los smartphones llegaron para quedarse. Estos aparatos nacieron para hacer nuest
 [Parques de Chile](https://play.google.com/store/apps/details?id=cl.chihau.parquesnacionalesdechile)
 
 [Gwent Trivia](https://play.google.com/store/apps/details?id=com.quiz.gwent)
+
+[ChileCree](https://play.google.com/store/apps/details?id=cl.entel.chilecree)
+
+
 
 
 
