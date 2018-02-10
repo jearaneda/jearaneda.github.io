@@ -12,7 +12,7 @@ Más del 60% del tráfico web a nivel mundial proviene de dispositivos móviles,
 
 [Sacateun7](https://www.sacateun7.com/)
 
-[Zella](https://www.zella.cl/)
+[JS Construcciones](http://www.constructorajs.com.ar/)
 
 ### Desarrollo Mobile
 Los smartphones llegaron para quedarse. Estos aparatos nacieron para hacer nuestra vida más sencilla, pero detrás del telón hay miles de personas que hacen esto posible, y por ello puedo ayudarte a concretar tu emprendimiento o idea.
