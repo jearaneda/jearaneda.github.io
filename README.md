@@ -10,7 +10,7 @@ Más del 60% del tráfico web a nivel mundial proviene de dispositivos móviles,
 
 [Cámara Chilena de la Construcción](http://www.cchc.cl/)
 
-[Sacateun7](https://www.sacateun7.com/)
+[Motel San Francisco 22](http://www.sanfrancisco22.cl/)
 
 [JS Construcciones](http://www.constructorajs.com.ar/)
 
