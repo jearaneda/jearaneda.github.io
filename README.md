@@ -3,18 +3,7 @@ Estudio Ingeniería Civil en Computación, Track Ing. de Software en la Pontific
 
 
 
-### Diseño Web
-Más del 60% del tráfico web a nivel mundial proviene de dispositivos móviles, así que tener una página web adaptativa a cada tipo de teléfono es ahora una necesidad. Algunas webs responsivas que he desarrollado:
 
-
-
-[Cámara Chilena de la Construcción](http://www.cchc.cl/)
-
-[Motel San Francisco 22](http://www.sanfrancisco22.cl/)
-
-[JS Construcciones](http://www.constructorajs.com.ar/)
-
-[Dibujame](http://dibujame.cl)
 
 ### Desarrollo Mobile
 Los smartphones llegaron para quedarse. Estos aparatos nacieron para hacer nuestra vida más sencilla, pero detrás del telón hay miles de personas que hacen esto posible, y por ello puedo ayudarte a concretar tu emprendimiento o idea.
