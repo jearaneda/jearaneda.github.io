@@ -1,5 +1,5 @@
 ## Sobre mí
-Estudio Ingeniería Civil en Computación, Track Ing. de Software en la Pontificia Universidad Católica. Soy un aficionado a la informática, y es por ello que constantemente me renuevo aprendiendo nuevos lenguajes y métodos. Puedes revisar mi Curriculum [aquí](resume.pdf).
+Estudio Ingeniería Civil en Computación en la Pontificia Universidad Católica. Soy un aficionado a la informática, y por ello . Puedes revisar mi Curriculum [aquí](resume.pdf).
 
 
 
@@ -21,7 +21,16 @@ Los smartphones llegaron para quedarse. Estos aparatos nacieron para hacer nuest
 DrinkSearch
 
 
+### Diseño Web
+Más del 60% del tráfico web a nivel mundial proviene de dispositivos móviles, así que tener una página web adaptativa a cada tipo de teléfono es ahora una necesidad. Algunas webs responsivas que he desarrollado:
 
+[Cámara Chilena de la Construcción](http://www.cchc.cl/)
+
+[Motel San Francisco 22](http://www.sanfrancisco22.cl/)
+
+[JS Construcciones](http://www.constructorajs.com.ar/)
+
+[Dibujame](http://dibujame.cl)
 
 
 ### Docencia
@@ -36,3 +45,17 @@ Constantemente intento que otras personas puedan entender el mundo y sus compone
 *   Profesor de Matemáticas y Ciencias, Preuniversitario Gauss.
 
 *   Clases particulares y grupales: Claseduc, Aprender Activo, Sacateun7, ClasesPSU.
+
+
+### Reconocimientos
+
+*   Alumno Destacado en Matemáticas, Colegio Alcántara de la Cordillera
+
+*   Translator of the Month, Steam Translate
+
+*   2º lugar Torneo de Debate Interescolar UNAB
+
+
+
+
+ 
