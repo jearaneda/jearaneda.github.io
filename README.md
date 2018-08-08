@@ -1,5 +1,5 @@
 ## Sobre mí
-Estudio Ingeniería Civil en Computación en la Pontificia Universidad Católica. Soy un aficionado a la informática, y por ello . Puedes revisar mi Curriculum [aquí](resume.pdf).
+Estudio Ingeniería Civil en Computación en la Pontificia Universidad Católica. Soy un aficionado a la informática, y por ello, renuevo constantemente mis conocimientos con técnicas y métodos nuevos . Puedes revisar mi Curriculum [aquí](resume.pdf).
 
 
 
