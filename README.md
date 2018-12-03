@@ -21,6 +21,14 @@ Los smartphones llegaron para quedarse. Estos aparatos nacieron para hacer nuest
 DrinkSearch
 
 
+
+### Soporte
+
+-Zella Chile (2016-2018).
+
+-Compra e instalación de sistemas, Biblioteca UC San Joaquín.
+
+
 ### Docencia
 Constantemente intento que otras personas puedan entender el mundo y sus componentes de otras formas. Por eso, la enseñanza es uno de mis hobbies.
 
