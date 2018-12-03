@@ -24,9 +24,8 @@ DrinkSearch
 
 ### Soporte
 
--Zella Chile (2016-2018).
-
--Compra e instalación de sistemas, Biblioteca UC San Joaquín.
+ *   Zella Chile (2016-2018).
+ *   Compra e instalación de sistemas, Biblioteca UC San Joaquín.
 
 
 ### Docencia
