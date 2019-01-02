@@ -1,5 +1,5 @@
 ## Sobre mí
-Estudio Ingeniería Civil en Computación en la Pontificia Universidad Católica. Soy un aficionado a la informática, y por ello, renuevo constantemente mis conocimientos con técnicas y métodos nuevos . Puedes revisar mi Curriculum [aquí](Resume.pdf).
+Estudio Ingeniería Civil en la Pontificia Universidad Católica. Soy un aficionado a la informática, y por ello, renuevo constantemente mis conocimientos con técnicas y métodos nuevos . Puedes revisar mi Curriculum [aquí](Resume.pdf).
 
 
 
@@ -18,7 +18,30 @@ Los smartphones llegaron para quedarse. Estos aparatos nacieron para hacer nuest
 
 [ChileCree](https://play.google.com/store/apps/details?id=cl.entel.chilecree)
 
-DrinkSearch
+[Fake Taxi Chile](https://play.google.com/store/apps/details?id=com.jearaneda.faketaxi)
+
+[Tu Ranking PSU](https://play.google.com/store/apps/details?id=com.jearaneda.turankingpsu)
+
+
+### Web Scrapping
+Escanea sitios web y obtiene datos importantes de manera dinámica: APIs libres con Selenium y AWS (o tu servidor de preferencia).
+
+[Fake Taxi Chile](https://play.google.com/store/apps/details?id=com.jearaneda.faketaxi)
+
+[LabMat UC Bot](https://github.com/jearaneda/Bot_LabMat)
+
+
+
+
+
+### Desarrollo web
+Páginas responsivas, agradables, y fáciles de usar.
+
+*   [Motel San Francisco 22](http://www.sanfrancisco22.cl)
+
+*   [Constructora JS](http://www.constructorajs.com.ar/)
+
+*   [Magister Arquitectura UC](http://magisterarq.cl/)
 
 
 
@@ -35,20 +58,12 @@ Constantemente intento que otras personas puedan entender el mundo y sus compone
 
 *   Ayudante de Filosofía y Vida en el Mundo Contemporáneo (FIL172), PUC Campus San Joaquín.
 
-*   Tutor voluntario, PreuIng de Ingeniería UC.
-
 *   Profesor de Matemáticas y Ciencias, Preuniversitario Gauss.
 
 *   Clases particulares y grupales: Claseduc, Aprender Activo, Sacateun7, ClasesPSU.
 
 
-### Reconocimientos
 
-*   Alumno Destacado en Matemáticas, Colegio Alcántara de la Cordillera
-
-*   Translator of the Month, Steam Translate
-
-*   2º lugar Torneo de Debate Interescolar UNAB
 
 
 
